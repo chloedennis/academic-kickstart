@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chloe Dennis is a fourth-year undergraduate student majoring in History and minoring in Religion at Carleton University. Her research interests include history of the body, women and gender history, and disability history. She currently works at the MacOdrum Library, is a Research Assistant for the Carleton University Disability Research Group (CUDRG), and is part of the Museums and Digital History fourth-year seminar who are working to put on a Heritage Jam in March/April 2020. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
