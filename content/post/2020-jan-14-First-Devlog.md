@@ -22,7 +22,7 @@ tags:
 * The [About the Corporation page](https://www.historymuseum.ca/about/the-corporation/#tabs) under the 'Doing Business With Us' tab outlines some of the ways in which the museum purchases objects for its collection/exhibit, it sounded like a lot of legal jargon to me but it's there! 
 * It terms of the'data' available on their site their [Resource Centre](https://www.historymuseum.ca/learn/resource-centre/) seems to be where the data for individual objects is, so it was pretty easy to find but i'm not sure how it could be downloaded
 * Errors encountered this week:
-  * Not being able to see this post right off the bat on my netlify site
+  * Not being able to see this post right off the bat on my netlify site (.md was the answer!)
   * Had an issue with Tropy, I thought I was able to download it successfully but when I go to open it it says that the application has crashed so not sure how to get around that, I may try to uninstall and install again
   
 
