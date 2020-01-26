@@ -1,12 +1,12 @@
 ---
 date: 2020-01-20
 title: Devlog 2 - History Museum Visit
-summary: Narrowing my scope and choosing my stories
+summary: We visited the CMH Resource Centre
 
 # optional header image (relative to 'static/img/' folder).
 header:
   caption: ""
-  image: ""
+  image: "HNN-Pipe-Organ.PNG"
 tags:
   - devlog
   - archaeology
@@ -14,6 +14,15 @@ tags:
   - cultural-heritage-informatics
 ---
 
-# An Idea
+# Devlog 2 - History Museum Visit
 
-It occurred to me ...
+* I thouroughly enjoyed the visit to the Canadian Museum of History's Resource Centre this Monday, the staff were extremely personable and honest about the work they are doing and the challenges the face in their work 
+* I enjoyed the indepth look and discussion we had about their two public databases - one for their library and archives and the other for their artifacts - and their separate internal database KEMU that they have been using since the late nineties that serves as the "master database" 
+* There is definitely things to be aware of when it comes to searching for resources in their databases that they made us aware of. For example, a lot of data did not make it into the current database when they switched over from the previous one so there may be missing information or mistakes in searches, and there are some gaps in the attempts to have all resources bilingual. 
+* My biggest take away from this discussion surrounding data and databases is that humans are inputting the data, digital work is most simply a group of humans with a website at the forefront. Mistakes happen, and they are the one's responsible for tracking and inputting data. I can only imagine attempting to keep track of all the "legacy data" through technological and cultural changes. 
+* The tour through their storage facilities was really cool. The hallway with the different lab rooms reminded me of the art/tech hall at my highschool where all the hands on work was happening and different constructions were hung on the walls and ceilings. 
+* I enjoyed their transparency when it came to how the Auditor General picks up on their organization of data and objects, like the "HNN Pipe Organ" crates. 
+* All in all a great and informative visit, the group working with them should have a lot of work and fun on their hands!
+
+
+
