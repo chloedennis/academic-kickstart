@@ -5,8 +5,8 @@ summary: We visited the CMH Resource Centre
 
 # optional header image (relative to 'static/img/' folder).
 header:
-  caption: "HNN Pipe Organ 14 of 14"
-  image: "HNN-Pipe-Organ.PNG"
+  caption: ""
+  image: ""
 tags:
   - devlog
   - archaeology
