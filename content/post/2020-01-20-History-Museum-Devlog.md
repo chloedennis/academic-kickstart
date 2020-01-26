@@ -23,6 +23,3 @@ tags:
 * The tour through their storage facilities was really cool. The hallway with the different lab rooms reminded me of the art/tech hall at my highschool where all the hands on work was happening and different constructions were hung on the walls and ceilings. 
 * I enjoyed their transparency when it came to how the Auditor General picks up on their organization of data and objects, like the "HNN Pipe Organ" crates. 
 * All in all a great and informative visit, the group working with them should have a lot of work and fun on their hands!
-
-
-
