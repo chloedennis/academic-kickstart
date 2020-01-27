@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in History: Carleton Univeristy
+  - course: BA in History Carleton Univeristy
     year: 2020 (forthcoming)
 
 # Social/Academic Networking
