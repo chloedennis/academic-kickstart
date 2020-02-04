@@ -14,7 +14,7 @@ tags:
   - cultural-heritage-informatics
 ---
 
-# Devlog 3 - Science and Tech Museum Visit
+# Devlog 3 - Science and Tech Museum Visit (in progress)
 
 * The survery marker collection that my classmates will be working on seems extremely interesting. I enjoyed the amount of material the staff had pulled related to the suvery markers, it seems like there is a lot of mmaterial and support to back this project. Like the staff said, because of the amount of material surrounding the markers there are many different angles to approach the project (ie. surveyor angle, place/geography angle). 
 * I appreciated the staff's discussion on the history of objects. 
