@@ -1,0 +1,20 @@
+---
+date: 2020-02-03
+title: Devlog 3 - Science and Tech Museum Visit
+summary: We visited the Science and Tech Museum and Library
+
+# optional header image (relative to 'static/img/' folder).
+header:
+  caption: ""
+  image: ""
+tags:
+  - devlog
+  - archaeology
+  - news
+  - cultural-heritage-informatics
+---
+
+# Devlog 3 - Science and Tech Museum Visit
+
+* The survery marker collection that my classmates will be working on seems extremely interesting. I enjoyed the amount of material the staff had pulled related to the suvery markers, it seems like there is a lot of mmaterial and support to back this project. Like the staff said, because of the amount of material surrounding the markers there are many different angles to approach the project (ie. surveyor angle, place/geography angle). 
+* I appreciated the staff's discussion on the history of objects. 
