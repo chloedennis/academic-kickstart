@@ -21,3 +21,4 @@ tags:
 * Error message https://drive.google.com/file/d/1WkpfSDDiCrU7Y5S2QzlsZRe4wiY5SXZZ/view?usp=sharing
 * I clicked on "Show Logs" and was brought to this screen https://drive.google.com/file/d/1O1JWXvxzO0F1HYGlhANX36tuhd4RQgSe/view?usp=sharing
 * I'm quite unsure what exactly the error is
+* For the group https://forums.tropy.org/t/accessing-a-tropy-project-saved-on-server-from-multiple-computers/1612/2
