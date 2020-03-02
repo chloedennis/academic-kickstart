@@ -16,4 +16,4 @@ tags:
 
 # Devlog 7 - Digitization Game Plan
 
-* 
+![data model](/img/data-model.png)
