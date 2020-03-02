@@ -21,4 +21,4 @@ tags:
 * The plan is to take photos of the catalogue pages/their data, use AZURE (?) the image/text reading software to generate a transcription from the images, organize the data into a table in which each catalogue entry is one row of the table, and then release the organized data online from there
 * Arianna and I are planning to go to the museum on Friday to take images of the catalogue pages. We decided to leave the catalogue cards for now, maybe they can be utilized in a future course, but for now it is not feasible and would be a lot more work for little reward at this time - the data difference between the cards and catalogue pages is minimal 
 * The group work may be split up so that other members will focus on the data organization, and others on releasing the data online 
-* Things are making more sense now, the end goal is clear 
+* Things are making more sense now, the end goal is clear, but more importantly how we are getting to that end goal is clear  
