@@ -17,7 +17,7 @@ tags:
 # Devlog 8 - Digitization Game Plan
 * Arianna and I took photos of the Place Royale Latrine ZIC Proj catalogue (ref# 98)
 * Named files with the catalogue reference number and the corresponding page number, example '98-10'. 
-* example: ![catalogue page](img/98-10.png)
+* example: ![catalogue page](/img/98-10.png)
 * We were able to upload them as jpegs using the one-drive camera 'photo' option (not the 'document' option as we had done before which resulted them being uploaded as pdfs)
 * We found that there was multiple sets of data within one catalogue
   * the first occupied the first 40 pages of the catalogue and is titled as "Selected Fields for All Species October 1 1987"
