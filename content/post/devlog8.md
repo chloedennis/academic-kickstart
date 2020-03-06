@@ -23,6 +23,7 @@ tags:
   * the first occupied the first 40 pages of the catalogue and is titled as "Selected Fields for All Species October 1 1987"
   * the second occupied the next 10 pages of the catalogue and is titled as "Cuts and Burns and Tooth Marks October 2 1987"
   * the data relates to one another (we think), the documentation of the cuts, burns, and tooth marks is that of noted on the species documented in the selected fields portion of data
+  * perhaps the cuts, burns, and tooth mark data will be an additional column or three in the data table
 * the data is separated by two different folders in onedrive, labelled accordingly by how they were titled in the catalogue 
 * there was more data within the catalogue on other pages, we were unsure how it fits into the rest of the data so we left it for now - it documented age of certain species, not sure if it is the species documented earlier - if we get a good grasp of the data we have taken photos of we can go back and take more pictures of the rest of the data
 * some of the pages in the catalogue were stapled - we do not know why, the data on the pages that were stapled was all different - when taking photos we took out the staples and stapled them back together once finished
