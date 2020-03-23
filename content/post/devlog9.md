@@ -36,6 +36,7 @@ tags:
 * I still feel like there is a lot of work ahead, and with only two weeks left in the semester I'm a bit overwhelmed by this along with all my other end of term work I have to complete but I will continue to contribute to the group what I can as we work towards the end goal of releasing some of the data from the collection online
 
 * EDIT March 23 0547PM - when trying to download the files from the ’Selected Fields for All Species October 1 987’ folder on one drive they all download and open as error files (see image below) - it is like this for myself and Aaliyah 
+* if we cannot properly download the files they can't be run through the text reader software
 ![download error](/img/error.png)
 
 
