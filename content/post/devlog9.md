@@ -23,6 +23,7 @@ tags:
   * the first is "output-march23.txt" which includes the summary pages of the catalogue and the data entry guide
   * the second is "output2march23.txt" which includes the dictionary pages of the data entry guide that outlines the shortforms used in the catalogue
 * I brought up the concern with the group that I don't think the catalogue pages themselves were ran through the text reading software - which is where the bulk of the data is for the catalogue
+  * These are the files that can be found in the ’Selected Fields for All Species October 1 987’ and ‘Cuts and burns and tooth marks oct2 1987’ folders in OneDrive
 * Aaliyah is going to see if she missed them and run them through the software so we should expect more data files today
 * In the text files the text from each photograph is separated with " ===== Processed Image - '98-summary-page-2.png' =====" the text from the photograph follows
 * The next steps are to create a table for the information in the text files 
