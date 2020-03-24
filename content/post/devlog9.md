@@ -38,5 +38,6 @@ tags:
 * EDIT March 23 0547PM - when trying to download the files from the ’Selected Fields for All Species October 1 987’ folder on one drive they all download and open as error files (see image below) - it is like this for myself and Aaliyah 
 * if we cannot properly download the files they can't be run through the text reader software
 ![download error](/img/error.png)
+* We now have the .txt file for the ‘Cuts and burns and tooth marks oct2 1987’ folder that must be put into a table as well
 
 
