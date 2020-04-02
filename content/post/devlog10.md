@@ -28,3 +28,4 @@ tags:
 * The data entry guide pages do not fit within the data table fields of the summary pages. I am now wondering if it should be in its own table, like in a separate tab of the google sheet doc or should we even make a table for it? 
 * I've emailed Arianna to see what she thinks - did not want to move forward without consultation 
 * Malinda is beginning to work on putting the output2march23.txt file into a data table
+https://docs.google.com/spreadsheets/d/10JMV_1mscQKWqhmE5X5pe0i3G3SDK5LbZt1hI-3NmG8/edit?usp=sharing link to the data table for this text file
